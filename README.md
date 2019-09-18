@@ -16,7 +16,7 @@
 
 1. make test
 
-## check coverage
+## Check coverage
 
 1. make coverage
 

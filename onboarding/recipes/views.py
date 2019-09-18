@@ -15,7 +15,7 @@ class RecipeView(viewsets.ModelViewSet):
 
 class IngredientView(viewsets.ModelViewSet):
     """
-    recipe api view
+    ingredient api view
     """
     serializer_class = IngredientSerializer
     queryset = Ingredient.objects.all().order_by('name')

@@ -4,6 +4,7 @@
 
 1. pip install pipenv
 2. pipenv install --dev
+3. pipenv shell
 3. make migrate
 
 + there is no need for virtual environments.
